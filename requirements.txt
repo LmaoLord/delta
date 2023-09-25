@@ -6,7 +6,7 @@ fonts
 font-roboto
 gfpgan
 gradio==3.28.1
-numpy
+numpy==1.22.0
 omegaconf
 opencv-contrib-python
 requests
