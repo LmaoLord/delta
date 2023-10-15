@@ -5,7 +5,7 @@ basicsr
 fonts
 font-roboto
 gfpgan
-gradio==3.41.2
+gradio
 numpy
 omegaconf
 opencv-contrib-python
